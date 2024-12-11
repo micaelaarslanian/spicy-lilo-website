@@ -1,0 +1,102 @@
+  div.bg-container {
+    background-color: #ECE1D2; /* Your custom color */
+  }
+
+  div.bg-container-yellow {
+  background-color: #D2A379;
+  }
+
+  .nav .nav-link {
+    color: #3A3A3A;
+    font-family: 'Space Grotesk', sans-serif;
+  }
+
+  h1{
+    color: #3A3A3A;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 70px;
+  }
+
+  h2 {
+    color: #3A3A3A;
+    font-family: 'Space Grotesk', sans-serif;
+  }
+
+  h3 {
+    color: #ECE1D2;
+    font-family: 'Space Grotesk', sans-serif;
+  }
+
+  p {
+    color: #3A3A3A;
+    font-family: 'Space Grotesk', sans-serif;
+  }
+
+  li {
+    color: #3A3A3A;
+    font-family: 'Space Grotesk', sans-serif;
+  }
+
+  .card-title {
+    color: #DB6D40;
+    font-family: 'Space Grotesk', sans-serif;
+    font-size: 60px;
+  }
+
+  .nav-link:hover {
+    color: #647878; /* Optional: Change link color on hover */
+  }
+
+  .footer-background {
+    background-color: #DB6D40;
+  }
+  
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.btn {
+  font-size: 30px;
+  font-family: 'Space Grotesk', sans-serif;
+  color: #354F4E;
+  background-color: transparent;
+  border-radius: 10px;
+  border-color: #354F4E;
+}
+
+.btn:hover {
+  color: #647878;
+  cursor:pointer;
+}
+
+body {
+  overflow-x: hidden;
+  cursor: "./images/chilli.png", auto; /* Replace with the path to your image */
+}
+
+
+#navbar-container {
+  position: sticky;
+  top: 0;
+  overflow: hidden;
+}
+
+.highlight {
+  color: #ECE1D2;
+  font-style:  italic;
+  font-size: 1rem;
+  text-decoration: none;
+  font-family: 'Cinzel', serif;
+}
+
+a:link {
+  color: #ECE1D2;
+}
+
+
+.card-background {
+  background-color: #ECE1D2;
+}
